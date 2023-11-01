@@ -7,7 +7,7 @@ const client = new Discord.Client(
     }
 )
 
-client.login("MTE2OTIyODY2OTY1NTQ2NTk4NA.GbI0gZ.XIm6EekTqK92IiMHg4n2ya6HF7auA9JlkLNAu0")
+client.login("tuo token")
 
 client.on("ready", () => {
     console.log("MarioBot Online!")
