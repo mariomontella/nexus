@@ -55,7 +55,9 @@ module.exports = {
 }; 
 
 
-// modulo trivia
+/* ----------------------
+      modulo trivia
+------------------------- */
 
  /*const { Client, Intents } = require("discord.js");
 
